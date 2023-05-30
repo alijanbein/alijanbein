@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALINJ</h1>
 <h3 align="center">A Frontend developer</h3>
-# [:link:Portfolio](https://alinj-portfolio.netlify.app/)
+<p align="left"> <a href="https://alinj-portfolio.netlify.app/" target="blank">Portfolio</a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijanbeinw&label=Profile%20views&color=0e75b6&style=flat" alt="alijanbein" /> </p>
 
